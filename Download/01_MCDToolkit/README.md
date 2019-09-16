@@ -1,5 +1,8 @@
 MCD Toolkit
 
+20190916 V1.0.0.6
+1.故障屏蔽标定量FltHandle_EventIdMask更改为CALI_FltHandle_EventIdMask
+
 20190910 V1.0.0.5
 1.增加功能：可以保存测量量
 
