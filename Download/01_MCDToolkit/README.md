@@ -1,4 +1,6 @@
 MCD Toolkit
+20191015 V1.0.0.7
+1.增加地址映射
 
 20190916 V1.0.0.6
 1.故障屏蔽标定量FltHandle_EventIdMask更改为CALI_FltHandle_EventIdMask
