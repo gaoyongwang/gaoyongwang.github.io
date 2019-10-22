@@ -1,4 +1,11 @@
 MCD Toolkit
+20191022 V2.0.0.0
+1.增加周立功CAN(USBCAN-2E-U)和广成科技CAN卡的支持
+2.优化界面
+3.版本升级时可读取上一版本配置
+注意：如果使用周立功CAN，请将ControlCAN.dll和kerneldlls文件夹与应用程序（MCDToolkit.exe）放在同一目录下
+	  如果不使用周立功CAN，可以删除ControlCAN.dll和kerneldlls文件夹，只需要单文件MCDToolkit.exe
+
 20191015 V1.0.0.7
 1.增加地址映射
 
